@@ -1,4 +1,8 @@
-### Hi there 👋
+### Welcome! 👋
+
+**Current work week**: [2023-W36](2023-W36.md)
+
+*This page is still a WIP for now.. and probably forever :) 
 
 <!--
 **richardberube/richardberube** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
