@@ -1,6 +1,6 @@
 ### Welcome! 👋
 
-**Current work week**: [2023-W36](2023-W36.md)
+**Current work week**: [2023-W36](https://github.com/richardberube/work-journal/blob/main/2023-W36.md)
 
 *This page is still a WIP for now.. and probably forever :) 
 
