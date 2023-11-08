@@ -1,9 +1,5 @@
 ### Welcome! 👋
 
-**Current work week**: [2023](https://github.com/richardberube/work-journal/tree/main)-[W36](https://github.com/richardberube/work-journal/blob/main/2023-W36.md)
-
-*This page is still a WIP for now.. and probably forever :) 
-
 <!--
 **richardberube/richardberube** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
